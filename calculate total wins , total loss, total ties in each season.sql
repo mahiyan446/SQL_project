@@ -1,3 +1,5 @@
+-- calculating total wins, total losses, total ties in each season
+
 WITH team_matches AS (
     SELECT
         match_id,
