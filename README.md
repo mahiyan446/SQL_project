@@ -4,7 +4,8 @@ It is a small snapshot of my work in SQL, but I chose these to share based on th
 
 # Find the team with the most victories in each season in SQL 
 # Determine the win, loss, and draw counts for each team.
-# calculate the number of consecutive home wins for each team
+# Calculate the number of consecutive home wins for each team
+# Determine the highest and lowest-scoring matches
 
 
 
