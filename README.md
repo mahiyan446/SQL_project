@@ -1,11 +1,5 @@
 # SQL_project-Spanish football league dataset-using SQL-Performance-Metrics
 
-It is a small snapshot of my work in SQL, but I chose these to share based on their simplicity and readability.
-
-# Find the team with the most victories in each season in SQL 
-# Determine the win, loss, and draw counts for each team.
-# Calculate the number of consecutive home wins for each team
-# Determine the highest and lowest-scoring matches
 
 
 
